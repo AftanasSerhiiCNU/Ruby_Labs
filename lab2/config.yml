@@ -1,0 +1,7 @@
+---
+database:
+  host: localhost
+  port: 5432
+  name: test_db
+  username: admin
+last_run_at: '2026-10-18T14:05:49+03:00'
